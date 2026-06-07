@@ -1,4 +1,4 @@
-# Data Structures & Algorithms — Final Project
+# Data Structures and Algorithms — Final Project
 
 A college final project implementing core data structures and algorithms from scratch.
 
